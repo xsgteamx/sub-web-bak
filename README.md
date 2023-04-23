@@ -94,6 +94,10 @@ server {
 }
 ```
 
+## vercel 配置
+
+部署的时候将node版本更改为14
+
 ## Related
 
 - [tindy2013/subconverter](https://github.com/tindy2013/subconverter)
